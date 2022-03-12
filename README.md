@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Flutter+Developer;Android%2C+Java+Developer;Machine+Learning+Junkie;2%2B+years+of+experience+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Flutter+Developer;Android%2C+Java+Developer;2%2B+years+of+experience+)](https://git.io/typing-svg)
 
 
 <!--Github Stats-->
