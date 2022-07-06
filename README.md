@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/emilio-kariuki/emilio-kariuki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-kariuki&hide=java,html,Makefile,tex&title_color=36BCF7&text_color=c9cacc&icon_color=00FFFF&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-kariuki&hide=java,html,Makefile,tex&title_color=36BCF7&text_color=c9cacc&icon_color=00FFFF&bg_color=1d1f21&langs_count=5" />
 </a>
 
 <!-- Commit Graph-->
