@@ -29,10 +29,6 @@
 
 
 
-<!-- <a href="https://github.com/emilio-kariuki/emilio-kariuki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-kariuki&hide=java,html,Makefile,tex&title_color=36BCF7&text_color=c9cacc&icon_color=00FFFF&bg_color=1d1f21&langs_count=4" />
-</a><br><br> -->
-
 
 
 
@@ -40,9 +36,9 @@
 
 <!-- Commit Graph-->
 
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
+<!-- ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Emilio Kariuki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emilio-kariuki&bg_color=1F222E&color=36BCF7&line=00FFFF&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Emilio Kariuki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emilio-kariuki&bg_color=1F222E&color=36BCF7&line=00FFFF&point=FFFFFF&hide_border=true" /></a> -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
