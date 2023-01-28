@@ -1,4 +1,4 @@
-### Hi, I'm Emilio, Tech Monger 👋:
+### Hi, I'm Emilio👋:
 
 🔭 I’m currently working on developing fullstack mobile applications using flutter and Node <br>👯  I’m looking to collaborate on any flutter project<br>💬 Ask me about flutter, Node and my developer's journey!
 
