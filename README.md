@@ -1,6 +1,6 @@
-### Hi, I'm Emilio👋:
 
-🔭 I’m currently working on developing fullstack mobile applications using flutter and Node <br>👯 
+
+## 🔭 Bazinga🏆🚚 welcome to my page🥴
 
 
 
