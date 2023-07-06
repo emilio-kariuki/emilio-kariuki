@@ -1,6 +1,6 @@
 
 
-## 🔭 Bazinga🏆🚚 welcome to my github🥴
+## 🔭 Bazinga 🚚 welcome to my github🥴
 
 
 
